@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://salon-app:123456@ds135234.mlab.com:35234/salon-app-db",
+    "database": "",
+    "password": "",
+    "name": "MongoDB",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
